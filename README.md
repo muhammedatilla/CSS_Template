@@ -1,2 +1,2 @@
 # CSS_Template
-CSS kullanılarak oluşturulmuş template
+HTML ve CSS kullanarak yapmış olduğum template
